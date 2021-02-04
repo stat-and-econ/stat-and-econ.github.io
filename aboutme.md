@@ -13,4 +13,4 @@ subtitle: 금융권 활약을 꿈꾸는 통계학도
 
 - 초보 투자자
 - 초보 블로거
-- 체스 애호가 (@sinatradoctrine, lichess \& chess.com)
+- 체스 애호가 (@sinatradoctrine, lichess or chess.com)
