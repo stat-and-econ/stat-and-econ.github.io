@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 금융권 활약을 꿈꾸는 통계학도
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### As a statistician
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 2014-2021 연세대학교 응용통계학과 (경제학 부전공)
+- 2021-     연세대학교 통계데이터사이언스학과 대학원
 
-What else do you need?
+### As a human being
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- 초보 투자자
+- 초보 블로거
+- 체스 애호가 (@sinatradoctrine, lichess \& chess.com)
